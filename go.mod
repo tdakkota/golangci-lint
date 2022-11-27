@@ -70,7 +70,7 @@ require (
 	github.com/mitchellh/go-ps v1.0.0
 	github.com/moricho/tparallel v0.2.1
 	github.com/nakabonne/nestif v0.3.1
-	github.com/nishanths/exhaustive v0.8.3
+	github.com/nishanths/exhaustive v0.9.2
 	github.com/nishanths/predeclared v0.2.2
 	github.com/pkg/errors v0.9.1
 	github.com/polyfloyd/go-errorlint v1.0.5
@@ -180,7 +180,7 @@ require (
 	golang.org/x/mod v0.7.0 // indirect
 	golang.org/x/sync v0.1.0 // indirect
 	golang.org/x/sys v0.2.0 // indirect
-	golang.org/x/text v0.3.8 // indirect
+	golang.org/x/text v0.4.0 // indirect
 	google.golang.org/protobuf v1.28.0 // indirect
 	gopkg.in/ini.v1 v1.67.0 // indirect
 	gopkg.in/yaml.v2 v2.4.0 // indirect
